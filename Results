@@ -1,0 +1,175 @@
+Original Data - 1000
+
+Test Accuracy: 0.76
+              precision    recall  f1-score   support
+
+           0       0.77      0.75      0.76       150
+           1       0.75      0.78      0.77       150
+
+    accuracy                           0.76       300
+   macro avg       0.76      0.76      0.76       300
+weighted avg       0.76      0.76      0.76       300
+
+Original Data - 10000
+
+Total Epoch Time: 30.571 seconds
+Average training loss: 0.24
+Validation Accuracy: 0.83
+Test Accuracy: 0.83
+              precision    recall  f1-score   support
+
+           0       0.83      0.82      0.83      1500
+           1       0.83      0.84      0.83      1500
+
+    accuracy                           0.83      3000
+   macro avg       0.83      0.83      0.83      3000
+weighted avg       0.83      0.83      0.83      3000
+
+Original Data - 100000
+
+Total Epoch Time: 303.842 seconds
+Average training loss: 0.26
+Validation Accuracy: 0.85
+Test Accuracy: 0.85
+              precision    recall  f1-score   support
+
+           0       0.86      0.85      0.85     15000
+           1       0.85      0.86      0.86     15000
+
+    accuracy                           0.85     30000
+   macro avg       0.86      0.85      0.85     30000
+weighted avg       0.86      0.85      0.85     30000
+
+
+
+Faked - 1000
+
+Total Epoch Time: 3.029 seconds
+Average training loss: 0.60
+Validation Accuracy: 0.75
+Test Accuracy: 0.70
+              precision    recall  f1-score   support
+
+           0       0.70      0.69      0.70       150
+           1       0.70      0.70      0.70       150
+
+    accuracy                           0.70       300
+   macro avg       0.70      0.70      0.70       300
+weighted avg       0.70      0.70      0.70       300
+
+Faked - 10000
+
+Total Epoch Time: 30.347 seconds
+Average training loss: 0.31
+Validation Accuracy: 0.82
+Test Accuracy: 0.82
+              precision    recall  f1-score   support
+
+           0       0.83      0.82      0.82      1500
+           1       0.82      0.83      0.83      1500
+
+    accuracy                           0.82      3000
+   macro avg       0.83      0.82      0.82      3000
+weighted avg       0.83      0.82      0.82      3000
+
+Faked - 100000
+
+Total Epoch Time: 303.968 seconds
+Average training loss: 0.26
+Validation Accuracy: 0.85
+Test Accuracy: 0.85
+              precision    recall  f1-score   support
+
+           0       0.85      0.86      0.86     15000
+           1       0.86      0.85      0.85     15000
+
+    accuracy                           0.85     30000
+   macro avg       0.85      0.85      0.85     30000
+weighted avg       0.85      0.85      0.85     30000
+
+
+Redacted - 1000
+
+Total Epoch Time: 2.970 seconds
+Average training loss: 0.59
+Validation Accuracy: 0.71
+Test Accuracy: 0.64
+              precision    recall  f1-score   support
+
+           0       0.65      0.61      0.63       150
+           1       0.64      0.67      0.65       150
+
+    accuracy                           0.64       300
+   macro avg       0.64      0.64      0.64       300
+weighted avg       0.64      0.64      0.64       300
+
+
+
+Redacted - 10000
+
+Validation Accuracy: 0.81
+Test Accuracy: 0.81
+              precision    recall  f1-score   support
+
+           0       0.81      0.81      0.81      1500
+           1       0.81      0.81      0.81      1500
+
+    accuracy                           0.81      3000
+   macro avg       0.81      0.81      0.81      3000
+weighted avg       0.81      0.81      0.81      3000
+
+
+Redacted - 100000
+
+Total Epoch Time: 297.300 seconds
+Average training loss: 0.28
+Validation Accuracy: 0.84
+Test Accuracy: 0.84
+              precision    recall  f1-score   support
+
+           0       0.84      0.84      0.84     15000
+           1       0.84      0.84      0.84     15000
+
+    accuracy                           0.84     30000
+   macro avg       0.84      0.84      0.84     30000
+weighted avg       0.84      0.84      0.84     30000
+—-----------------------------
+Redacted Accuracy - 20000 test (same data)
+
+Accuracy on entire df: 0.90
+              precision    recall  f1-score   support
+
+           0       0.90      0.90      0.90    100000
+           1       0.90      0.89      0.90    100000
+
+    accuracy                           0.90    200000
+   macro avg       0.90      0.90      0.90    200000
+weighted avg       0.90      0.90      0.90    200000
+
+—------------------------------------------------
+Redacted Entire df
+
+precision    recall  f1-score   support
+
+           0       0.85      0.86      0.86    799998
+           1       0.00      0.00      0.00         0
+           4       0.00      0.00      0.00    798315
+
+    accuracy                           0.43   1598313
+   macro avg       0.28      0.29      0.29   1598313
+weighted avg       0.43      0.43      0.43   1598313
+
+
+—-
+Original Entire DF
+Trained on 100000
+Accuracy on sample of 2000(1:1) : 0.85
+—---
+Faked Entire DF
+Trained on 100000
+Accuracy on sample of 2000(1:1) : 0.862
+—--
+Redacted Entire DF
+Trained on 100000
+Accuracy on sample of 2000(1:1) : 0.895
+
