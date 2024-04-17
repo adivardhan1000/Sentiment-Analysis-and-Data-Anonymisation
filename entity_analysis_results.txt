@@ -1,0 +1,644 @@
+Checkpoint: 0
+Total Entities: 9064
+Rows with Entities: 5600
+-------------------------
+Checkpoint: 1
+Total Entities: 18134
+Rows with Entities: 11266
+-------------------------
+Checkpoint: 2
+Total Entities: 27464
+Rows with Entities: 17053
+-------------------------
+Checkpoint: 3
+Total Entities: 36531
+Rows with Entities: 22696
+-------------------------
+Checkpoint: 4
+Total Entities: 45616
+Rows with Entities: 28312
+-------------------------
+Checkpoint: 5
+Total Entities: 54597
+Rows with Entities: 33905
+-------------------------
+Checkpoint: 6
+Total Entities: 63544
+Rows with Entities: 39434
+-------------------------
+Checkpoint: 7
+Total Entities: 72469
+Rows with Entities: 45003
+-------------------------
+Checkpoint: 8
+Total Entities: 81599
+Rows with Entities: 50632
+-------------------------
+Checkpoint: 9
+Total Entities: 90670
+Rows with Entities: 56288
+-------------------------
+Checkpoint: 10
+Total Entities: 99663
+Rows with Entities: 61823
+-------------------------
+Checkpoint: 11
+Total Entities: 109002
+Rows with Entities: 67518
+-------------------------
+Checkpoint: 12
+Total Entities: 118117
+Rows with Entities: 73165
+-------------------------
+Checkpoint: 13
+Total Entities: 127390
+Rows with Entities: 78801
+-------------------------
+Checkpoint: 14
+Total Entities: 137054
+Rows with Entities: 84556
+-------------------------
+Checkpoint: 15
+Total Entities: 145892
+Rows with Entities: 90084
+-------------------------
+Checkpoint: 16
+Total Entities: 154902
+Rows with Entities: 95662
+-------------------------
+Checkpoint: 17
+Total Entities: 163919
+Rows with Entities: 101312
+-------------------------
+Checkpoint: 18
+Total Entities: 172701
+Rows with Entities: 106779
+-------------------------
+Checkpoint: 19
+Total Entities: 181898
+Rows with Entities: 112459
+-------------------------
+Checkpoint: 20
+Total Entities: 190803
+Rows with Entities: 118054
+-------------------------
+Checkpoint: 21
+Total Entities: 199413
+Rows with Entities: 123449
+-------------------------
+Checkpoint: 22
+Total Entities: 208249
+Rows with Entities: 128884
+-------------------------
+Checkpoint: 23
+Total Entities: 217421
+Rows with Entities: 134524
+-------------------------
+Checkpoint: 23
+Total Entities: 226593
+Rows with Entities: 140164
+-------------------------
+Checkpoint: 24
+Total Entities: 235586
+Rows with Entities: 145742
+-------------------------
+Checkpoint: 25
+Total Entities: 244583
+Rows with Entities: 151364
+-------------------------
+Checkpoint: 26
+Total Entities: 253616
+Rows with Entities: 157031
+-------------------------
+Checkpoint: 27
+Total Entities: 263338
+Rows with Entities: 162926
+-------------------------
+Checkpoint: 28
+Total Entities: 272478
+Rows with Entities: 168568
+-------------------------
+Checkpoint: 29
+Total Entities: 281398
+Rows with Entities: 174099
+-------------------------
+Checkpoint: 30
+Total Entities: 290232
+Rows with Entities: 179529
+-------------------------
+Checkpoint: 31
+Total Entities: 299313
+Rows with Entities: 185131
+-------------------------
+Checkpoint: 32
+Total Entities: 308327
+Rows with Entities: 190689
+-------------------------
+Checkpoint: 33
+Total Entities: 317192
+Rows with Entities: 196201
+-------------------------
+Checkpoint: 34
+Total Entities: 326132
+Rows with Entities: 201797
+-------------------------
+Checkpoint: 35
+Total Entities: 335388
+Rows with Entities: 207516
+-------------------------
+Checkpoint: 36
+Total Entities: 344537
+Rows with Entities: 213181
+-------------------------
+Checkpoint: 37
+Total Entities: 353343
+Rows with Entities: 218607
+-------------------------
+Checkpoint: 38
+Total Entities: 362735
+Rows with Entities: 224301
+-------------------------
+Checkpoint: 39
+Total Entities: 371831
+Rows with Entities: 229983
+-------------------------
+Checkpoint: 40
+Total Entities: 380535
+Rows with Entities: 235483
+-------------------------
+Checkpoint: 41
+Total Entities: 389123
+Rows with Entities: 240834
+-------------------------
+Checkpoint: 42
+Total Entities: 398063
+Rows with Entities: 246415
+-------------------------
+Checkpoint: 43
+Total Entities: 407182
+Rows with Entities: 252103
+-------------------------
+Checkpoint: 44
+Total Entities: 416311
+Rows with Entities: 257755
+-------------------------
+Checkpoint: 45
+Total Entities: 425154
+Rows with Entities: 263351
+-------------------------
+Checkpoint: 46
+Total Entities: 433985
+Rows with Entities: 268837
+-------------------------
+Checkpoint: 47
+Total Entities: 443146
+Rows with Entities: 274567
+-------------------------
+Checkpoint: 48
+Total Entities: 451817
+Rows with Entities: 280011
+-------------------------
+Checkpoint: 49
+Total Entities: 460432
+Rows with Entities: 285412
+-------------------------
+Checkpoint: 50
+Total Entities: 469223
+Rows with Entities: 290789
+-------------------------
+Checkpoint: 51
+Total Entities: 478316
+Rows with Entities: 296418
+-------------------------
+Checkpoint: 52
+Total Entities: 487185
+Rows with Entities: 301931
+-------------------------
+Checkpoint: 53
+Total Entities: 495803
+Rows with Entities: 307407
+-------------------------
+Checkpoint: 54
+Total Entities: 504604
+Rows with Entities: 312894
+-------------------------
+Checkpoint: 55
+Total Entities: 514001
+Rows with Entities: 318564
+-------------------------
+Checkpoint: 56
+Total Entities: 523480
+Rows with Entities: 324309
+-------------------------
+Checkpoint: 57
+Total Entities: 532600
+Rows with Entities: 329971
+-------------------------
+Checkpoint: 58
+Total Entities: 541387
+Rows with Entities: 335423
+-------------------------
+Checkpoint: 59
+Total Entities: 550263
+Rows with Entities: 340865
+-------------------------
+Checkpoint: 60
+Total Entities: 559623
+Rows with Entities: 346623
+-------------------------
+Checkpoint: 61
+Total Entities: 568482
+Rows with Entities: 352154
+-------------------------
+Checkpoint: 62
+Total Entities: 577364
+Rows with Entities: 357725
+-------------------------
+Checkpoint: 63
+Total Entities: 586230
+Rows with Entities: 363214
+-------------------------
+Checkpoint: 64
+Total Entities: 595898
+Rows with Entities: 369018
+-------------------------
+Checkpoint: 65
+Total Entities: 605464
+Rows with Entities: 374804
+-------------------------
+Checkpoint: 66
+Total Entities: 614707
+Rows with Entities: 380426
+-------------------------
+Checkpoint: 67
+Total Entities: 623505
+Rows with Entities: 385892
+-------------------------
+Checkpoint: 68
+Total Entities: 632492
+Rows with Entities: 391487
+-------------------------
+Checkpoint: 69
+Total Entities: 641566
+Rows with Entities: 397077
+-------------------------
+Checkpoint: 70
+Total Entities: 650321
+Rows with Entities: 402548
+-------------------------
+Checkpoint: 71
+Total Entities: 658902
+Rows with Entities: 407952
+-------------------------
+Checkpoint: 72
+Total Entities: 667526
+Rows with Entities: 413318
+-------------------------
+Checkpoint: 73
+Total Entities: 676798
+Rows with Entities: 418971
+-------------------------
+Checkpoint: 74
+Total Entities: 685812
+Rows with Entities: 424564
+-------------------------
+Checkpoint: 75
+Total Entities: 695139
+Rows with Entities: 430192
+-------------------------
+Checkpoint: 76
+Total Entities: 703849
+Rows with Entities: 435697
+-------------------------
+Checkpoint: 77
+Total Entities: 712500
+Rows with Entities: 441126
+-------------------------
+Checkpoint: 78
+Total Entities: 721525
+Rows with Entities: 446715
+-------------------------
+Checkpoint: 79
+Total Entities: 730937
+Rows with Entities: 452539
+-------------------------
+Checkpoint: 80
+Total Entities: 740597
+Rows with Entities: 458483
+-------------------------
+Checkpoint: 81
+Total Entities: 750221
+Rows with Entities: 464385
+-------------------------
+Checkpoint: 82
+Total Entities: 759629
+Rows with Entities: 470174
+-------------------------
+Checkpoint: 83
+Total Entities: 769322
+Rows with Entities: 476185
+-------------------------
+Checkpoint: 84
+Total Entities: 778924
+Rows with Entities: 482173
+-------------------------
+Checkpoint: 85
+Total Entities: 788395
+Rows with Entities: 488106
+-------------------------
+Checkpoint: 86
+Total Entities: 798149
+Rows with Entities: 494034
+-------------------------
+Checkpoint: 87
+Total Entities: 807961
+Rows with Entities: 500042
+-------------------------
+Checkpoint: 88
+Total Entities: 817678
+Rows with Entities: 506054
+-------------------------
+Checkpoint: 89
+Total Entities: 826805
+Rows with Entities: 511806
+-------------------------
+Checkpoint: 90
+Total Entities: 836419
+Rows with Entities: 517694
+-------------------------
+Checkpoint: 91
+Total Entities: 845639
+Rows with Entities: 523452
+-------------------------
+Checkpoint: 92
+Total Entities: 855000
+Rows with Entities: 529241
+-------------------------
+Checkpoint: 93
+Total Entities: 864758
+Rows with Entities: 535213
+-------------------------
+Checkpoint: 94
+Total Entities: 874308
+Rows with Entities: 541089
+-------------------------
+Checkpoint: 95
+Total Entities: 884484
+Rows with Entities: 547215
+-------------------------
+Checkpoint: 96
+Total Entities: 893916
+Rows with Entities: 553105
+-------------------------
+Checkpoint: 97
+Total Entities: 903478
+Rows with Entities: 558986
+-------------------------
+Checkpoint: 98
+Total Entities: 913500
+Rows with Entities: 565032
+-------------------------
+Checkpoint: 99
+Total Entities: 923656
+Rows with Entities: 571160
+-------------------------
+Checkpoint: 100
+Total Entities: 933707
+Rows with Entities: 577205
+-------------------------
+Checkpoint: 101
+Total Entities: 943937
+Rows with Entities: 583363
+-------------------------
+Checkpoint: 102
+Total Entities: 953800
+Rows with Entities: 589402
+-------------------------
+Checkpoint: 103
+Total Entities: 963289
+Rows with Entities: 595263
+-------------------------
+Checkpoint: 104
+Total Entities: 973194
+Rows with Entities: 601327
+-------------------------
+Checkpoint: 105
+Total Entities: 982891
+Rows with Entities: 607247
+-------------------------
+Checkpoint: 106
+Total Entities: 992463
+Rows with Entities: 613176
+-------------------------
+Checkpoint: 107
+Total Entities: 1001982
+Rows with Entities: 619059
+-------------------------
+Checkpoint: 108
+Total Entities: 1011593
+Rows with Entities: 624986
+-------------------------
+Checkpoint: 109
+Total Entities: 1021390
+Rows with Entities: 630939
+-------------------------
+Checkpoint: 110
+Total Entities: 1031357
+Rows with Entities: 636976
+-------------------------
+Checkpoint: 111
+Total Entities: 1040893
+Rows with Entities: 642936
+-------------------------
+Checkpoint: 112
+Total Entities: 1050157
+Rows with Entities: 648726
+-------------------------
+Checkpoint: 113
+Total Entities: 1059395
+Rows with Entities: 654483
+-------------------------
+Checkpoint: 114
+Total Entities: 1068910
+Rows with Entities: 660319
+-------------------------
+Checkpoint: 115
+Total Entities: 1078829
+Rows with Entities: 666382
+-------------------------
+Checkpoint: 116
+Total Entities: 1088634
+Rows with Entities: 672392
+-------------------------
+Checkpoint: 117
+Total Entities: 1098605
+Rows with Entities: 678447
+-------------------------
+Checkpoint: 118
+Total Entities: 1108238
+Rows with Entities: 684369
+-------------------------
+Checkpoint: 119
+Total Entities: 1117574
+Rows with Entities: 690217
+-------------------------
+Checkpoint: 120
+Total Entities: 1127354
+Rows with Entities: 696258
+-------------------------
+Checkpoint: 121
+Total Entities: 1137479
+Rows with Entities: 702377
+-------------------------
+Checkpoint: 122
+Total Entities: 1147955
+Rows with Entities: 708540
+-------------------------
+Checkpoint: 123
+Total Entities: 1157664
+Rows with Entities: 714534
+-------------------------
+Checkpoint: 124
+Total Entities: 1167174
+Rows with Entities: 720415
+-------------------------
+Checkpoint: 125
+Total Entities: 1176429
+Rows with Entities: 726183
+-------------------------
+Checkpoint: 126
+Total Entities: 1185835
+Rows with Entities: 731996
+-------------------------
+Checkpoint: 127
+Total Entities: 1195395
+Rows with Entities: 737879
+-------------------------
+Checkpoint: 128
+Total Entities: 1205178
+Rows with Entities: 743836
+-------------------------
+Checkpoint: 129
+Total Entities: 1215094
+Rows with Entities: 749867
+-------------------------
+Checkpoint: 130
+Total Entities: 1224409
+Rows with Entities: 755647
+-------------------------
+Checkpoint: 131
+Total Entities: 1234047
+Rows with Entities: 761551
+-------------------------
+Checkpoint: 132
+Total Entities: 1243760
+Rows with Entities: 767537
+-------------------------
+Checkpoint: 133
+Total Entities: 1253611
+Rows with Entities: 773584
+-------------------------
+Checkpoint: 134
+Total Entities: 1263482
+Rows with Entities: 779644
+-------------------------
+Checkpoint: 135
+Total Entities: 1273139
+Rows with Entities: 785590
+-------------------------
+Checkpoint: 136
+Total Entities: 1282721
+Rows with Entities: 791481
+-------------------------
+Checkpoint: 137
+Total Entities: 1292335
+Rows with Entities: 797428
+-------------------------
+Checkpoint: 138
+Total Entities: 1302362
+Rows with Entities: 803514
+-------------------------
+Checkpoint: 139
+Total Entities: 1312284
+Rows with Entities: 809560
+-------------------------
+Checkpoint: 140
+Total Entities: 1322202
+Rows with Entities: 815607
+-------------------------
+Checkpoint: 141
+Total Entities: 1331626
+Rows with Entities: 821545
+-------------------------
+Checkpoint: 142
+Total Entities: 1340666
+Rows with Entities: 827209
+-------------------------
+Checkpoint: 143
+Total Entities: 1349935
+Rows with Entities: 833000
+-------------------------
+Checkpoint: 144
+Total Entities: 1359482
+Rows with Entities: 838906
+-------------------------
+Checkpoint: 145
+Total Entities: 1369239
+Rows with Entities: 844952
+-------------------------
+Checkpoint: 146
+Total Entities: 1379324
+Rows with Entities: 851116
+-------------------------
+Checkpoint: 147
+Total Entities: 1389408
+Rows with Entities: 857235
+-------------------------
+Checkpoint: 148
+Total Entities: 1398705
+Rows with Entities: 863048
+-------------------------
+Checkpoint: 149
+Total Entities: 1408054
+Rows with Entities: 868901
+-------------------------
+Checkpoint: 150
+Total Entities: 1417476
+Rows with Entities: 874731
+-------------------------
+Checkpoint: 151
+Total Entities: 1427303
+Rows with Entities: 880672
+-------------------------
+Checkpoint: 152
+Total Entities: 1437066
+Rows with Entities: 886686
+-------------------------
+Checkpoint: 153
+Total Entities: 1446657
+Rows with Entities: 892593
+-------------------------
+Checkpoint: 154
+Total Entities: 1456158
+Rows with Entities: 898531
+-------------------------
+Checkpoint: 155
+Total Entities: 1465582
+Rows with Entities: 904456
+-------------------------
+Checkpoint: 156
+Total Entities: 1475047
+Rows with Entities: 910299
+-------------------------
+Checkpoint: 157
+Total Entities: 1484648
+Rows with Entities: 916184
+-------------------------
+Checkpoint: 158
+Total Entities: 1494555
+Rows with Entities: 922173
+-------------------------
+Checkpoint: 159
+Total Entities: 1504202
+Rows with Entities: 928081
+-------------------------
